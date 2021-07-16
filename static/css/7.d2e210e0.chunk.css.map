@@ -1,0 +1,1 @@
+{"version":3,"sources":["BenchmarkCreation.css"],"names":[],"mappings":"AAAA,gBACI,eACJ,CACA,qBACI,eACJ,CACA,yBACI,oBACJ","file":"7.d2e210e0.chunk.css","sourcesContent":[".creation .card {\n    min-width: 450px;\n}\n.creation .card form {\n    margin-top: 2rem;\n}\n.creation .card .p-field {\n    margin-bottom: 1.5rem;\n}"]}
